@@ -1,11 +1,20 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "posts": [{
+    "Id": 1,
+    "Phone": "(555) XXX-XXXX",
+    "Name": "Jhon Doe",
+    "Title": "Jhon Doe",
+    "Address": "Calle Dr. Miguel Ríos Sarmiento, 3, 41020 Sevilla, Spain",
+    "Description": "Quick business trip to city center.",
+    "UpdateDescription": "",
+    "Latitude": -0.1674027763646159,
+    "Longitude": -78.47094603889924,
+    "CustomerType": 1,
+    "Taxis": [
+      {
+        "id": 3
+      }],
+    "CustomerCategory": 1
+  }]
+
 }
