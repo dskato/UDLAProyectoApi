@@ -2,10 +2,10 @@
   "posts": [{
     "Id": 1,
     "Phone": "(555) XXX-XXXX",
-    "Name": "Jhon Doe",
-    "Title": "Jhon Doe",
-    "Address": "Calle Dr. Miguel Ríos Sarmiento, 3, 41020 Sevilla, Spain",
-    "Description": "Quick business trip to city center.",
+    "Name": "David Araujo",
+    "Title": "David A",
+    "Address": "Calle x",
+    "Description": "Viaje fast.",
     "UpdateDescription": "",
     "Latitude": -0.1674027763646159,
     "Longitude": -78.47094603889924,
@@ -42,6 +42,24 @@
     "UpdateDescription": "",
     "Latitude": -0.16288897268889635,
     "Longitude": -78.47435378522721,
+    "CustomerType": 1,
+    "Taxis": [
+      {
+        "id": 3
+      }
+    ],
+    "CustomerCategory": 3
+  },
+           {
+    "Id": 3,
+    "Phone": "(555) XXX-XXXX",
+    "Name": "XYZ",
+    "Title": "XYZ",
+    "Address": "Quicentro",
+    "Description": "VF.",
+    "UpdateDescription": "",
+    "Latitude": -0.17600171051549987,
+    "Longitude": -78.47931464564618,
     "CustomerType": 1,
     "Taxis": [
       {
